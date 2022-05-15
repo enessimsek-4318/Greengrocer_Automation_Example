@@ -1,0 +1,7 @@
+C:\Users\enes4\Desktop\KURS\Çalışma\Manav Uygulaması\Manav\Manav\bin\Debug\Manav.exe.config
+C:\Users\enes4\Desktop\KURS\Çalışma\Manav Uygulaması\Manav\Manav\bin\Debug\Manav.exe
+C:\Users\enes4\Desktop\KURS\Çalışma\Manav Uygulaması\Manav\Manav\bin\Debug\Manav.pdb
+C:\Users\enes4\Desktop\KURS\Çalışma\Manav Uygulaması\Manav\Manav\obj\Debug\Manav.csproj.AssemblyReference.cache
+C:\Users\enes4\Desktop\KURS\Çalışma\Manav Uygulaması\Manav\Manav\obj\Debug\Manav.csproj.CoreCompileInputs.cache
+C:\Users\enes4\Desktop\KURS\Çalışma\Manav Uygulaması\Manav\Manav\obj\Debug\Manav.exe
+C:\Users\enes4\Desktop\KURS\Çalışma\Manav Uygulaması\Manav\Manav\obj\Debug\Manav.pdb
